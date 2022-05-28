@@ -1,0 +1,4 @@
+insert into TB_PRODUCTS (sku,nameProduct,brand,size,price,principal_image) values ('FAL-12000000','ZAPATO','NIKE',100,100000,'https://falabella.scene7.com/is/image/Falabella/15687235_1?wid=1500&hei=1500&qlt=70');
+insert into TB_PRODUCTS (sku,nameProduct,brand,size,price,principal_image) values ('FAL-12000001','ZAPATO FORMAL','GENERICA',45,70000,'https://falabella.scene7.com/is/image/Falabella/15687235_1?wid=1500&hei=1500&qlt=70');
+insert into TB_PRODUCTS (sku,nameProduct,brand,size,price,principal_image) values ('FAL-12000002','CAMISETA','GENERICA',42,7000,'https://falabella.scene7.com/is/image/Falabella/882280839_1?wid=1500&hei=1500&qlt=70');
+insert into TB_PRODUCTS (sku,nameProduct,brand,size,price,principal_image) values ('FAL-12000003','CALCETINES ALGODON','GENERICA',34,3990,'https://falabella.scene7.com/is/image/Falabella/882286783_1?wid=1500&hei=1500&qlt=70');
